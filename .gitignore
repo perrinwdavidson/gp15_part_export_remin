@@ -27,3 +27,6 @@ _research/
 # environment.
 Manifest.toml
 Project.toml
+
+# Mac-specific files
+.DS_Store
